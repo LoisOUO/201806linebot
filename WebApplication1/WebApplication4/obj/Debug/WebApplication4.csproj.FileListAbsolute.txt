@@ -69,3 +69,4 @@ C:\Users\lois\Desktop\201806linebot\WebApplication1\WebApplication4\obj\Debug\We
 C:\Users\lois\Desktop\201806linebot\WebApplication1\WebApplication4\obj\Debug\WebApplication4.csproj.CopyComplete
 C:\Users\lois\Desktop\201806linebot\WebApplication1\WebApplication4\obj\Debug\WebApplication4.dll
 C:\Users\lois\Desktop\201806linebot\WebApplication1\WebApplication4\obj\Debug\WebApplication4.pdb
+C:\Users\lois\Desktop\201806linebot\WebApplication1\WebApplication4\obj\Debug\WebApplication4.csprojResolveAssemblyReference.cache
